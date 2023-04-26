@@ -79,7 +79,7 @@ Label(f3,text='Picture, Image, Photo File',bg='#2f4155',fg='yellow').place(x=20,
 f4=Frame(root,bd=3,bg='#2f4155',width=330,height=100,relief=GROOVE)
 f4.place(x=360,y=430)
 
-Button(f4,text='Hide Data',width=10,height=2,font='arial 14 bold',command=hide).place(x=20,y=30)
-Button(f4,text='Show Data',width=10,height=2,font='arial 14 bold',command=show).place(x=180,y=30)
+Button(f4,text='Encode',width=10,height=2,font='arial 14 bold',command=hide).place(x=20,y=30)
+Button(f4,text='Decode',width=10,height=2,font='arial 14 bold',command=show).place(x=180,y=30)
 
 root.mainloop()
