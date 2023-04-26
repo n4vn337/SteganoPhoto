@@ -2,6 +2,10 @@
 
 SteganoPhoto is a user-friendly desktop application built with Python and Tkinter that allows you to hide secret messages inside images using steganography. With SteganoPhoto, you can encrypt your messages, hide them inside images, and share them securely with your friends and family. The app also allows you to extract hidden messages from images, so you can decode and read them easily.
 
+## Demo
+
+https://user-images.githubusercontent.com/59524376/234670359-0605a5e2-d9c5-447b-9cb7-a4321599c62b.mp4
+
 ## Requirements
 
 To run SteganoPhoto, you will need to have Python 3 installed on your system. You can download Python from the official website [here](https://www.python.org/downloads/). You will also need to install the following Python module(s):
